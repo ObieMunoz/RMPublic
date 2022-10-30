@@ -11,7 +11,7 @@ Ultimately, I would like to see this project become a full management dashboard 
 - [Live Deployment](https://www.repomagic.com)
 
 ## Contributing
-At this time, RepoMagic is a private repository and closed for public contributions.
+At this time, RepoMagic is being built in a private repository and is closed for public contributions.
 
 ## Submitting Issues
 Please complete an issue template if you are going to submit an issue or request a feature. This is crucial. If you fail to complete the template, this may result in your issue being delayed or closed. If your issue is closed for this reason, feel free to reopen a new one following the guidelines. Please be as detailed as possible and submit screenshots with your issue if necessasry.
