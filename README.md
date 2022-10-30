@@ -23,6 +23,7 @@ Please complete an issue template if you are going to submit an issue or request
 ## Supporting RepoMagic
 RepoMagic is currently provided free of charge and there is no plan to change that model. If you would like to support my efforts, please consider:
 - [Buy Me A Coffee](https://www.buymeacoffee.com/obiemunoz)
+
 Funds donated via Buy Me A Coffee will be used for compensating expenses related to RepoMagic's development.
 
 ## Technologies Used
